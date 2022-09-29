@@ -2,7 +2,6 @@
 
 int main()
 {
-  int n = 1;
   menu();
 }
 
